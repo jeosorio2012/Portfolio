@@ -1,10 +1,43 @@
 [
     {
-        "name":"Grilled Chicken with Brocoli and Potatoes",
-        "description":"This recipe is a very healthy choice among chicken dishes becuase it has important macronutrients. Mozzarella cheese melted on the brocoli and some seasoned potatoes are the only contour that this Chicken needs.",
-        "recipeId":1,
-        "favorite":false,
-        "ingredients":"",
-        "image":"IMG_1943.JPG"
-    } 
+      "name":"Grilled Chicken with Brocoli and Potatoes",
+      "description":"This recipe is a very healthy choice among chicken dishes becuase it has important macronutrients and some seasoned potatoes",
+      "ingredients":"200g of Chicken breast, brocoli, salt, pepper, potatoes, garlic, vegetable oil, Mozzarella cheese.",
+      "recipeId":1,
+      "image":"chickenwbroc.png", 
+      "favorite":false
+    },
+    {
+      "name": "Classic Spaghetti Bolognese",
+      "description": "A hearty and delicious Italian dish that's perfect for dinner",
+      "ingredients": "spaghetti, ground beef, canned crushed tomatoes, onion, garlic, olive oil, salt, pepper",
+      "recipeId":2,
+      "image":"bologna.png",
+      "favorite":false
+    },
+    {
+      "name": "Slow Cooker Chicken Tacos",
+      "description": "An easy and flavorful way to enjoy tacos",
+      "ingredients": "chicken breasts, salsa, taco seasoning, tortillas, lettuce, shredded cheese, sour cream",
+      "recipeId":3,
+      "image":"tacos.png",
+      "favorite":false
+    },
+    {
+      "name": "Roasted Vegetable Lasagna",
+      "description": "A vegetarian lasagna that's packed with flavor",
+      "ingredients": "lasagna noodles, eggplant, zucchini, red bell pepper, onion, garlic, ricotta cheese, mozzarella cheese, tomato sauce",
+      "recipeId":4,
+      "image":"lasagna.png",
+      "favorite":false
+    },
+    {
+      "name": "Thai Green Curry",
+      "description": "A spicy and fragrant curry that's perfect for a cold night",
+      "ingredients": "chicken, green curry paste, coconut milk, fish sauce, sugar, green beans, bell pepper, basil",
+      "recipeId":5,
+      "image":"curry.png",
+      "favorite":false
+    }
 ]
+    
