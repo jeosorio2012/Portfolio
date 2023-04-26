@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.010492b8.js",
+    "static/js/688.a215c860.js": "/Portfolio/static/js/688.a215c860.js",
+    "static/media/bologna.png": "/Portfolio/static/media/bologna.6d4ada458bfaeee8b766.png",
+    "static/media/chickenwbroc.png": "/Portfolio/static/media/chickenwbroc.7088fea0e478a7861709.png",
+    "static/media/curry.png": "/Portfolio/static/media/curry.89ebb23c302ecbc9bf10.png",
+    "static/media/lasagna.png": "/Portfolio/static/media/lasagna.13e5b8537eb609590215.png",
+    "static/media/tacos.png": "/Portfolio/static/media/tacos.e7f1a7fd21cc1375d2a3.png",
+    "static/media/MaterialCommunityIcons.ttf": "/Portfolio/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "favicon.ico": "/Portfolio/favicon.ico",
+    "index.html": "/Portfolio/index.html",
+    "favicon-32.png": "/Portfolio/favicon-32.png",
+    "favicon-16.png": "/Portfolio/favicon-16.png",
+    "manifest.json": "/Portfolio/manifest.json",
+    "serve.json": "/Portfolio/serve.json",
+    "main.010492b8.js.map": "/Portfolio/static/js/main.010492b8.js.map",
+    "688.a215c860.js.map": "/Portfolio/static/js/688.a215c860.js.map"
+  },
+  "entrypoints": [
+    "static/js/688.a215c860.js",
+    "static/js/main.010492b8.js"
+  ]
+}
