@@ -38,6 +38,62 @@
       "recipeId":5,
       "image":"curry.png",
       "favorite":false
+    },
+    {
+      "name": "Beef Stroganoff",
+      "description": "A comforting and filling dish that's perfect for a cold winter day",
+      "ingredients": "beef sirloin, onion, garlic, mushrooms, sour cream, dijon mustard, beef broth, egg noodles",
+      "recipeId":7,
+      "image":"mush.jpeg",
+      "favorite":false
+    },
+    {
+      "name": "Butternut Squash Soup",
+      "description": "A creamy and flavorful soup that's perfect for fall",
+      "ingredients": "butternut squash, onion, garlic, chicken broth, heavy cream, butter, cinnamon, nutmeg",
+      "recipeId":8,
+      "image":"soup.jpeg",
+      "favorite":false
+    },
+    {
+      "name": "Spicy Shrimp Stir-Fry",
+      "description": "A quick and easy weeknight meal that's packed with flavor",
+      "ingredients": "shrimp, broccoli, bell pepper, onion, garlic, soy sauce, sriracha, honey, ginger",
+      "recipeId":9,
+      "image":"shrimp.jpeg",
+      "favorite":false
+    },
+    {
+      "name": "Grilled Chicken Salad",
+      "description": "A healthy and satisfying salad that's perfect for lunch",
+      "ingredients": "chicken breasts, mixed greens, cherry tomatoes, cucumber, red onion, feta cheese, balsamic vinaigrette",
+      "recipeId":10,
+      "image":"grilled.jpeg",
+      "favorite":false
+    },
+    {
+      "name": "Mushroom and Spinach Stuffed Chicken Breast",
+      "description": "A flavorful and impressive dish that's perfect for a dinner party",
+      "ingredients": "chicken breasts, mushrooms, spinach, onion, garlic, cream cheese, parmesan cheese",
+      "recipeId":11,
+      "image":"spinach.jpeg",
+      "favorite":false
+    },
+    {
+      "name": "Lemon Garlic Shrimp Pasta",
+      "description": "A light and refreshing pasta dish that's perfect for summer",
+      "ingredients": "shrimp, linguine, garlic, lemon, white wine, butter, parsley",
+      "recipeId":12,
+      "image":"lemon.jpeg",
+      "favorite":false
+    },
+    {
+      "name": "Vegetarian Chili",
+      "description": "A hearty and satisfying chili that's perfect for a cold day",
+      "ingredients": "kidney beans, black beans, corn, tomato sauce, onion, garlic, chili powder, cumin, paprika, sour cream.",
+      "recipeId":13,
+      "image":"chili.jpeg",
+      "favorite":false
     }
 ]
     
