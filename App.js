@@ -1,3 +1,4 @@
+//imports
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, SafeAreaView, CheckBox, TextInput, Button, Pressable, TouchableHighlight, Dimensions, Image} from 'react-native';
 import RecipeDetail from "./components/detailScreen/index"
@@ -7,7 +8,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import recipes from "./recipes.json"
 
-
+//navigation
 const Stack = createNativeStackNavigator();
 function Home({navigation}){
   const [search, setSearch]=useState("")
@@ -26,7 +27,7 @@ function Home({navigation}){
       </TouchableHighlight>
     )
   }
-
+//Search Box
 const searchFilter = (text)=>{
   if(text){
     const newData = data.filter(function (item){
@@ -61,7 +62,7 @@ const goToFavorites=()=>{
     </SafeAreaView>
   )
 };
-
+//Screens
 export default function App() {
   return (
     <NavigationContainer><Stack.Navigator screenOptions={{headerShown:false}}>
@@ -71,7 +72,7 @@ export default function App() {
     </Stack.Navigator></NavigationContainer>
   );
 }
-
+//Styles
 const styles = StyleSheet.create({
   container: {
     flex: 1,

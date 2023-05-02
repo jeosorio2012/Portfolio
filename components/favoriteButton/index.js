@@ -1,8 +1,9 @@
+//Imports
 import React, { useState } from "react";
 import { Pressable } from "react-native";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
-
+//Favorite button functionality 
 export default function LikeButton (props) {
 
   return (

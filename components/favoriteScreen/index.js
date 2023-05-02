@@ -1,3 +1,4 @@
+//Imports
 import { StyleSheet, Text, View, FlatList, SafeAreaView, CheckBox, TextInput, Button, Pressable, TouchableHighlight, Dimensions, Image} from 'react-native';
 import { useState } from 'react';
 
@@ -19,6 +20,7 @@ export default function Favorites({route, navigation}){
       )
     }
   
+    //Search Filter
   const searchFilter = (text)=>{
     if(text){
       const newData = data.filter(function (item){
@@ -54,6 +56,7 @@ export default function Favorites({route, navigation}){
     )
   };
 
+  //Styles
   const styles = StyleSheet.create({
     container: {
       flex: 1,

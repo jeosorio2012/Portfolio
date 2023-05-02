@@ -1,8 +1,10 @@
+//Imports
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, FlatList, SafeAreaView, CheckBox, TextInput, Button, Pressable, TouchableHighlight, Dimensions, Image, ScrollView} from 'react-native';
 import { useState } from 'react';
 import LikeButton from "../favoriteButton/index"
 
+//Recipe Detail screen
 export default function RecipeDetail({route, navigation}){
     const [liked, setLiked] = useState(route.params.item.favorite)
     const setFavorite = (isFavorited)=>{
@@ -58,6 +60,7 @@ export default function RecipeDetail({route, navigation}){
 
 const { width: viewportWidth } = Dimensions.get('window');
 
+//Styles
 const styles = StyleSheet.create({
     container: {
       backgroundColor: 'white',
