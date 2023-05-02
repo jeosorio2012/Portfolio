@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "http://jeosorio2012.github.io/Portfolio",
+  "homepage": "http://jeosorio2012.github.io/React-Native-Recipe-App",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
